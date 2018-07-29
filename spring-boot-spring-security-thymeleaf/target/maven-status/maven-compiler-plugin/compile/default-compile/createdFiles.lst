@@ -1,0 +1,7 @@
+com\pks\springbootws\StudentServicesApplication.class
+com\pks\springbootws\service\StudentService.class
+com\pks\springbootws\model\Student.class
+com\pks\error\MyAccessDeniedHandler.class
+com\pks\springbootws\controller\StudentController.class
+com\pks\controller\DefaultController.class
+com\pks\springbootws\model\Course.class
